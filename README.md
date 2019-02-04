@@ -1,16 +1,5 @@
 # Google Auth Library for Ruby
 
-<dl>
-  <dt>Homepage</dt><dd><a href="http://www.github.com/google/google-auth-library-ruby">http://www.github.com/google/google-auth-library-ruby</a></dd>
-  <dt>Authors</dt><dd><a href="mailto:temiola@google.com">Tim Emiola</a></dd>
-  <dt>Copyright</dt><dd>Copyright © 2015 Google, Inc.</dd>
-  <dt>License</dt><dd>Apache 2.0</dd>
-</dl>
-
-[![Gem Version](https://badge.fury.io/rb/googleauth.svg)](http://badge.fury.io/rb/googleauth)
-[![Build Status](https://secure.travis-ci.org/google/google-auth-library-ruby.svg)](http://travis-ci.org/google/google-auth-library-ruby)
-[![Coverage Status](https://coveralls.io/repos/google/google-auth-library-ruby/badge.svg)](https://coveralls.io/r/google/google-auth-library-ruby)
-
 ## Description
 
 This is Google's officially supported ruby client library for using OAuth 2.0
@@ -201,16 +190,3 @@ available in [COPYING][copying].
 ## Contributing
 
 See [CONTRIBUTING][contributing].
-
-## Support
-
-Please
-[report bugs at the project on Github](https://github.com/google/google-auth-library-ruby/issues). Don't
-hesitate to
-[ask questions](http://stackoverflow.com/questions/tagged/google-auth-library-ruby)
-about the client or APIs on [StackOverflow](http://stackoverflow.com).
-
-[google-apis-ruby-client]: (https://github.com/google/google-api-ruby-client)
-[application default credentials]: (https://developers.google.com/accounts/docs/application-default-credentials)
-[contributing]: https://github.com/google/google-auth-library-ruby/tree/master/CONTRIBUTING.md
-[copying]: https://github.com/google/google-auth-library-ruby/tree/master/COPYING
